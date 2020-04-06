@@ -5,7 +5,7 @@ public class Main {
                 System.out.println( "NUmber 1 : " + num1);
                 System.out.println( "NUmber 2 : " + num2);
                 //System.out.println( "Mult : " + multipyl(num1,num2) );
-                //System.out.println( "Substraction : " + substraction(num1,num2) );
+                System.out.println( "Substraction : " + substraction(num1,num2) );
 
         }
 
