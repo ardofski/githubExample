@@ -16,5 +16,8 @@ public class Main {
         public static int substraction( int a, int b){
                 return a-b;
         }
+        public static void printHello(){
+                System.out.println("Hello");
+        }
 
 }
