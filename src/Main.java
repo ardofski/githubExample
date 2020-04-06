@@ -13,5 +13,8 @@ public class Main {
         public static int sumamtion( int a, int b){
                 return a+b;
         }
+        public static int substraction( int a, int b){
+                return a-b;
+        }
 
 }
